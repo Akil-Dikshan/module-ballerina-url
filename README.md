@@ -13,11 +13,6 @@ This module provides URL encoding and decoding functions. Encoding replaces
 certain characters in a URL with percent-encoded triplets, while decoding
 reverses the process.
 
-## Key Features
-
-- URL encoding of strings and URL components
-- URL decoding of percent-encoded strings
-
 ## Issues and projects
 
 Issues and Projects tabs are disabled for this repository as this is part of the Ballerina Standard Library. To report bugs, request new features, start new discussions, view project boards, etc., go to the [Ballerina Standard Library parent repository](https://github.com/ballerina-platform/ballerina-standard-library).
