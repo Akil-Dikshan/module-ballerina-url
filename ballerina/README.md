@@ -1,8 +1,6 @@
 ## Overview
 
-This module provides URL encoding and decoding functions. Encoding replaces
-certain characters in a URL with percent-encoded triplets, while decoding
-reverses the process.
+This module provides URL encoding and decoding functions. Encoding replaces certain characters in a URL with percent-encoded triplets, while decoding reverses the process.
 
 ## Key Features
 
